@@ -33,7 +33,7 @@ export default async function LandingPage() {
           </div>
 
           {/* tiny feature row for depth */}
-          <div className="mt-12 grid grid-cols-1 gap-4 sm:grid-cols-3">
+          {/* <div className="mt-12 grid grid-cols-1 gap-4 sm:grid-cols-3">
             {[
               ['Secure by default', 'Row Level Security via Supabase Auth'],
               ['Fast & modern', 'Next.js App Router + Server Actions'],
@@ -44,7 +44,7 @@ export default async function LandingPage() {
                 <p className="mt-1 text-xs text-zinc-400">{desc}</p>
               </div>
             ))}
-          </div>
+          </div> */}
         </div>
       </section>
     </main>
