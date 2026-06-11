@@ -11,11 +11,10 @@ export default async function LandingPage() {
       <section className="relative mx-auto flex min-h-screen max-w-7xl items-center justify-center p-6">
         <div className="w-full max-w-3xl text-center">
           <h1 className="mt-6 text-5xl font-semibold tracking-tight sm:text-6xl">
-            Brainwave
+            GOLF APP
           </h1>
           <p className="mx-auto mt-4 max-w-2xl text-zinc-400">
-            A thoughtfully minimal, AI-assisted notes app. Sign in to start capturing ideas,
-            organize with tags, and generate concise summaries.
+            GOLF GOLF GOLF GOLF and other stuff
           </p>
 
           <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
